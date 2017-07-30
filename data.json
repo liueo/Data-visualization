@@ -1,0 +1,763 @@
+{
+  "name": "R.Federer",
+  "children": [
+    {
+      "name": "M.Cilic",
+      "children": [
+        {
+          "name": "S.Querrey",
+          "children": [
+            {
+              "name": "A.Murray",
+              "children": [
+                {
+                  "name": "A.Murray",
+                  "children": [
+                    {
+                      "name": "A.Murray",
+                      "children": [
+                        {
+                          "name": "A.Murray",
+                          "children": [
+                            {"name": "A.Murray", "size": 10},
+                            {"name": "A.Bublik", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "D.Brown",
+                          "children": [
+                            {"name": "J.Sousa", "size": 10},
+                            {"name": "D.Brown", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "F.Fognini",
+                      "children": [
+                        {
+                          "name": "J.Vesely",
+                          "children": [
+                            {"name": "J.Vesely", "size": 10},
+                            {"name": "I.Marchenko", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "F.Fognini",
+                          "children": [
+                            {"name": "D.Tursunov", "size": 10},
+                            {"name": "F.Fognini", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "B.Paire",
+                  "children": [
+                    {
+                      "name": "B.Paire",
+                      "children": [
+                        {
+                          "name": "P.Herbert",
+                          "children": [
+                            {"name": "N.Kyrgios", "size": 10},
+                            {"name": "P.Herbert", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "B.Paire",
+                          "children": [
+                            {"name": "R.Dutra Silva", "size": 10},
+                            {"name": "B.Paire", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "J.Janowicz",
+                      "children": [
+                        {
+                          "name": "J.Janowicz",
+                          "children": [
+                            {"name": "D.Shapovalov", "size": 10},
+                            {"name": "J.Janowicz", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "L.Pouille",
+                          "children": [
+                            {"name": "M.Jaziri", "size": 10},
+                            {"name": "L.Pouille", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "S.Querrey",
+              "children": [
+                {
+                  "name": "S.Querrey",
+                  "children": [
+                    {
+                      "name": "J-W.Tsonga",
+                      "children": [
+                        {
+                          "name": "J-W.Tsonga",
+                          "children": [
+                            {"name": "J-W.Tsonga", "size": 10},
+                            {"name": "C.Norrie", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "S.Bolelli",
+                          "children": [
+                            {"name": "S.Bolelli", "size": 10},
+                            {"name": "Y-H.Lu", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "S.Qurray",
+                      "children": [
+                        {
+                          "name": "N.Basilashvili",
+                          "children": [
+                            {"name": "C.Berlocq", "size": 10},
+                            {"name": "N.Basilashvili", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "S.Querrey",
+                          "children": [
+                            {"name": "T.Fabbiano", "size": 10},
+                            {"name": "S.Querrey", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "K.Anderson",
+                  "children": [
+                    {
+                      "name": "K.Anderson",
+                      "children": [
+                        {
+                          "name": "K.Anderson",
+                          "children": [
+                            {"name": "F.Verdasco", "size": 10},
+                            {"name": "K.Anderson", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "A.Seppi",
+                          "children": [
+                            {"name": "N.Gombos", "size": 10},
+                            {"name": "A.Seppi", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "R.Bemelmans",
+                      "children": [
+                        {
+                          "name": "R.Bemelmans",
+                          "children": [
+                            {"name": "T.Haas", "size": 10},
+                            {"name": "R.Bemelmans", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "D.Medvedev",
+                          "children": [
+                            {"name": "D.Medvedev", "size": 10},
+                            {"name": "S.Wawrinka", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "M.Cilic",
+          "children": [
+            {
+              "name": "G.Muller",
+              "children": [
+                {
+                  "name": "R.Nadal",
+                  "children": [
+                    {
+                      "name": "R.Nadal",
+                      "children": [
+                        {
+                          "name": "R.Nadal",
+                          "children": [
+                            {"name": "R.Nadal", "size": 10},
+                            {"name": "J.Millman", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "D.Young",
+                          "children": [
+                            {"name": "D.Young", "size": 10},
+                            {"name": "D.Istomin", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "K.Khachanov",
+                      "children": [
+                        {
+                          "name": "T.Monteiro",
+                          "children": [
+                            {"name": "T.Monteiro", "size": 10},
+                            {"name": "A.Whittington", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "K.Khachanov",
+                          "children": [
+                            {"name": "An.Kuznetsov", "size": 10},
+                            {"name": "K.Khachanov", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "G.Muller",
+                  "children": [
+                    {
+                      "name": "A.Bedene",
+                      "children": [
+                        {
+                          "name": "A.Bedene",
+                          "children": [
+                            {"name": "I.Karlovic", "size": 10},
+                            {"name": "A.Bedene", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "D.Dzumhur",
+                          "children": [
+                            {"name": "D.Dzumhur", "size": 10},
+                            {"name": "R.Olivo", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "G.Muller",
+                      "children": [
+                        {
+                          "name": "L.Rosol",
+                          "children": [
+                            {"name": "L.Rosol", "size": 10},
+                            {"name": "H.Laaksonen", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "G.Muller",
+                          "children": [
+                            {"name": "M.Fucsovics", "size": 10},
+                            {"name": "G.Muller", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "M.Cilic",
+              "children": [
+                {
+                  "name": "R.Bautista Agut",
+                  "children": [
+                    {
+                      "name": "K.Nishikori",
+                      "children": [
+                        {
+                          "name": "K.Nishikori",
+                          "children": [
+                            {"name": "K.Nishikori", "size": 10},
+                            {"name": "M.Cecchinato", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "S.Stakhovsky",
+                          "children": [
+                            {"name": "J.Benneteau", "size": 10},
+                            {"name": "S.Stakhovsky", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "R.Bautista Agut",
+                      "children": [
+                        {
+                          "name": "P.Gojowczyk",
+                          "children": [
+                            {"name": "P.Gojowczyk", "size": 10},
+                            {"name": "M.Copil", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "R.Bautista Agut",
+                          "children": [
+                            {"name": "A.Haider-Maurer", "size": 10},
+                            {"name": "R.Bautista Agut", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "M.Cilic",
+                  "children": [
+                    {
+                      "name": "S.Johnson",
+                      "children": [
+                        {
+                          "name": "S.Johnson",
+                          "children": [
+                            {"name": "S.Johnson", "size": 10},
+                            {"name": "N.Kicker", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "R.Albot",
+                          "children": [
+                            {"name": "F.Bagnis", "size": 10},
+                            {"name": "R.Albot", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "M.Cilic",
+                      "children": [
+                        {
+                          "name": "F.Mayer",
+                          "children": [
+                            {"name": "V.Troicki", "size": 10},
+                            {"name": "F.Mayer", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "M.Cilic",
+                          "children": [
+                            {"name": "P.Kohlschreiber", "size": 10},
+                            {"name": "M.Cilic", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "R.Federer",
+      "children": [
+        {
+          "name": "R.Federer",
+          "children": [
+            {
+              "name": "M.Raonic",
+              "children": [
+                {
+                  "name": "M.Raonic",
+                  "children": [
+                    {
+                      "name": "M.Raonic",
+                      "children": [
+                        {
+                          "name": "M.Raonic",
+                          "children": [
+                            {"name": "M.Raonic", "size": 10},
+                            {"name": "J.Struff", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "M.Youzhny",
+                          "children": [
+                            {"name": "M.Youzhny", "size": 10},
+                            {"name": "N.Mahut", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "A.Ramos-Vinolas",
+                      "children": [
+                        {
+                          "name": "A.Rublev",
+                          "children": [
+                            {"name": "A.Rublev", "size": 10},
+                            {"name": "S.Travaglia", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "A.Ramos-Vinolas",
+                          "children": [
+                            {"name": "J.Thompson", "size": 10},
+                            {"name": "A.Ramos-Vinolas", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "A.Zverev",
+                  "children": [
+                    {
+                      "name": "S.Ofner",
+                      "children": [
+                        {
+                          "name": "J.Sock",
+                          "children": [
+                            {"name": "J.Sock", "size": 10},
+                            {"name": "C.Garin", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "S.Ofner",
+                          "children": [
+                            {"name": "T.Bellucci", "size": 10},
+                            {"name": "S.Ofner", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "A.Zverev",
+                      "children": [
+                        {
+                          "name": "F.Tiafoe",
+                          "children": [
+                            {"name": "R.Haase", "size": 10},
+                            {"name": "F.Tiafoe", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "A.Zverev",
+                          "children": [
+                            {"name": "E.Donskoy", "size": 10},
+                            {"name": "A.Zverev", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "R.Federer",
+              "children": [
+                {
+                  "name": "G.Dimitrov",
+                  "children": [
+                    {
+                      "name": "G.Dimitrov",
+                      "children": [
+                        {
+                          "name": "G.Dimitrov",
+                          "children": [
+                            {"name": "G.Dimitrov", "size": 10},
+                            {"name": "D.Schwartzman", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "M.Baghdatis",
+                          "children": [
+                            {"name": "J.Ward", "size": 10},
+                            {"name": "M.Baghdatis", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "D.Sela",
+                      "children": [
+                        {
+                          "name": "D.Sela",
+                          "children": [
+                            {"name": "D.Sela", "size": 10},
+                            {"name": "M.Granollers", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "J.Isner",
+                          "children": [
+                            {"name": "T.Fritz", "size": 10},
+                            {"name": "J.Isner", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "R.Federer",
+                  "children": [
+                    {
+                      "name": "M.Zverev",
+                      "children": [
+                        {
+                          "name": "M.Zverev",
+                          "children": [
+                            {"name": "M.Zverev", "size": 10},
+                            {"name": "B.Tomic", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "M.Kukushkin",
+                          "children": [
+                            {"name": "M.Kukushkin", "size": 10},
+                            {"name": "T.Daniel", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "R.Federer",
+                      "children": [
+                        {
+                          "name": "D.Lajovic",
+                          "children": [
+                            {"name": "S.Tsitsipas", "size": 10},
+                            {"name": "D.Lajovic", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "R.Federer",
+                          "children": [
+                            {"name": "A.Dolgopolov", "size": 10},
+                            {"name": "R.Federer", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "T.Berdych",
+          "children": [
+            {
+              "name": "T.Berdych",
+              "children": [
+                {
+                  "name": "D.Thiem",
+                  "children": [
+                    {
+                      "name": "D.Thiem",
+                      "children": [
+                        {
+                          "name": "D.Thiem",
+                          "children": [
+                            {"name": "D.Thiem", "size": 10},
+                            {"name": "V.Pospisil", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "G.Simon",
+                          "children": [
+                            {"name": "G.Simon", "size": 10},
+                            {"name": "N.Jarry", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "J.Donaldson",
+                      "children": [
+                        {
+                          "name": "J.Donaldson",
+                          "children": [
+                            {"name": "J.Tipsarevic", "size": 10},
+                            {"name": "J.Donaldson", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "P.Lorenzi",
+                          "children": [
+                            {"name": "H.Zeballos", "size": 10},
+                            {"name": "P.Lorenzi", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "T.Berdych",
+                  "children": [
+                    {
+                      "name": "D.Ferrer",
+                      "children": [
+                        {
+                          "name": "D.Ferrer",
+                          "children": [
+                            {"name": "R.Gasquet", "size": 10},
+                            {"name": "D.Ferrer", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "S.Darcis",
+                          "children": [
+                            {"name": "S.Darcis", "size": 10},
+                            {"name": "R.Berankis", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "T.Berdych",
+                      "children": [
+                        {
+                          "name": "R.Harrison",
+                          "children": [
+                            {"name": "B.Coric", "size": 10},
+                            {"name": "R,Harrison", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "T.Berdych",
+                          "children": [
+                            {"name": "J.Chardy", "size": 10},
+                            {"name": "T.Berdych", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "N.Djokovic",
+              "children": [
+                {
+                  "name": "A.Mannarino",
+                  "children": [
+                    {
+                      "name": "G.Monfils",
+                      "children": [
+                        {
+                          "name": "G.Monfils",
+                          "children": [
+                            {"name": "G.Monfils", "size": 10},
+                            {"name": "D.Brands", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "K.Edmund",
+                          "children": [
+                            {"name": "K.Edmund", "size": 10},
+                            {"name": "A.Ward", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "A.Mannarino",
+                      "children": [
+                        {
+                          "name": "Y.Sugita",
+                          "children": [
+                            {"name": "Y.Sugita", "size": 10},
+                            {"name": "B.Klein", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "A.Mannoarino",
+                          "children": [
+                            {"name": "A.Mannarino", "size": 10},
+                            {"name": "F.Lopez", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "N.Djokovic",
+                  "children": [
+                    {
+                      "name": "E.Gulbis",
+                      "children": [
+                        {
+                          "name": "J.Del Potro",
+                          "children": [
+                            {"name": "J.Del Potro", "size": 10},
+                            {"name": "T.Kokkinakis", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "E.Gulbis",
+                          "children": [
+                            {"name": "E.Gulbis", "size": 10},
+                            {"name": "V.Estrella Burgos", "size": 10}
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "N.Djokovic",
+                      "children": [
+                        {
+                          "name": "A.Pavlasek",
+                          "children": [
+                            {"name": "A.Pavlasek", "size": 10},
+                            {"name": "E.Escobedo", "size": 10}
+                          ]
+                        },
+                        {
+                          "name": "N.Djokovic",
+                          "children": [
+                            {"name": "M.Klizan", "size": 10},
+                            {"name": "N.Djokovic", "size": 10}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
